@@ -4,4 +4,4 @@ En el siguiente proyecto trabajaré con la base de datos de una compañía móvi
 
 Utilizaré métricas de evalución que em ayudarán a comparar los diferentes modelos de clasificación y elegir el que me proporcione la mayor exactitud posible en mis predicciones.
 
-Esta tarea la desarrollaré en un archivo 'ipynb' desde Visual Studio Code, utilizando Python y SQL como lenguajes de programación.
+Esta tarea la desarrollaré en un archivo 'ipynb' desde Visual Studio Code, utilizando Python como lenguaje de programación.
